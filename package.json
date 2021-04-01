@@ -1,6 +1,6 @@
 {
-  "name": "curso_origamid_ranek",
-  "version": "1.0",
+  "name": "ranek-desapega",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
